@@ -1,10 +1,15 @@
 body {
-  background-color: #1dadef;
+  background-color: #F5AB35;
 }
 h2 {
   text-transform: capitalize !important;
 }
 
 .underline {
+  text-decoration: underline;
+}
+
+.reveal a {
+  color: white;
   text-decoration: underline;
 }
